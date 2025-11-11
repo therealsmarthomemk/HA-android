@@ -223,13 +223,8 @@
     <string name="empty_template">Template value must not be blank</string>
     <string name="enable_all_sensors_summary">All required permissions will be requested upon enabling</string>
     <string name="enable_all_sensors">Enable all sensors</string>
-<<<<<<< HEAD
     <string name="enable_location_tracking_description">Enabling this sensor will allow the SH Pro application to track your location and report it back to your instance of SH Pro. Ensure that you enable background access to location, otherwise we cannot enable location tracking. Your location data is sent directly to your SH Pro instance and is never sent to a 3rd party.</string>
     <string name="enable_location_tracking_prompt">This app collects location data to enable location tracking, WiFi connection status, and URL decision making even when the app is closed or not in use.</string>
-=======
-    <string name="enable_location_tracking_description">Enabling this sensor will allow the Home Assistant application to track your location and report it back to your instance of Home Assistant. Ensure that you enable background access to location, otherwise we cannot enable location tracking. Your location data is sent directly to your Home Assistant instance and is never sent to a 3rd party.</string>
-    <string name="enable_location_tracking_prompt">This app collects location data to enable location tracking, Wi-Fi connection status, and URL decision making even when the app is closed or not in use.</string>
->>>>>>> c1766016f40eeecc3dc02a065b3e56f5846e3ed4
     <string name="enable_location_tracking">Enable location tracking</string>
     <string name="enable_remaining_sensors">Enable %1$d sensors</string>
     <string name="enable_sensor">Enable sensor</string>
@@ -571,13 +566,8 @@
     <string name="search_refine_for_more">Refine your search to view more…</string>
     <string name="search_results">Search results</string>
     <string name="search_sensors">Search sensors</string>
-<<<<<<< HEAD
     <string name="security_vulnerably_message">Your version of SH Pro does not protect for recently discovered security vulnerabilities in custom components. Please view the details via the bulletin and update as soon as possible.</string>
     <string name="security_vulnerably_title">Security vulnerably warning</string>
-=======
-    <string name="security_vulnerably_message">Your version of Home Assistant does not protect for recently discovered security vulnerabilities in custom components. Please view the details via the bulletin and update as soon as possible.</string>
-    <string name="security_vulnerably_title">Security vulnerability warning</string>
->>>>>>> c1766016f40eeecc3dc02a065b3e56f5846e3ed4
     <string name="security_vulnerably_understand">I understand</string>
     <string name="security_vulnerably_view">View bulletin</string>
     <string name="security">Security</string>
@@ -670,11 +660,7 @@
     <string name="sensor_description_volume_music">Volume level for music on the device</string>
     <string name="sensor_description_volume_ring">Volume level for the ringer on the device</string>
     <string name="sensor_description_weight">Last recorded weight in Health Connect</string>
-<<<<<<< HEAD
     <string name="sensor_description_wifi_bssid">The MAC address of the currently connected WiFi access point. Enabling the \"Get current BSSID\" toggle will create a new setting allowing you to rename the state sent back to SH Pro for the chosen MAC address. The toggle will default to off after the current BSSID is stored, so you will need to enable it once for each BSSID you wish to rename. You can also clear out the value to remove the setting in the next update.</string>
-=======
-    <string name="sensor_description_wifi_bssid">The MAC address of the currently connected Wi-Fi access point. Enabling the \"Get current BSSID\" toggle will create a new setting allowing you to rename the state sent back to Home Assistant for the chosen MAC address. The toggle will default to off after the current BSSID is stored, so you will need to enable it once for each BSSID you wish to rename. You can also clear out the value to remove the setting in the next update.</string>
->>>>>>> c1766016f40eeecc3dc02a065b3e56f5846e3ed4
     <string name="sensor_description_wifi_connection">The name of the network the device is currently connected to</string>
     <string name="sensor_description_wifi_frequency">The frequency band of the connected network</string>
     <string name="sensor_description_wifi_ip">The current IP address of the device on the network</string>
