@@ -166,7 +166,7 @@ private fun CreateShortcutView(
             val painter = if (icon != null) {
                 remember(icon) { IconicsPainter(icon) }
             } else {
-                painterResource(R.drawable.ic_stat_ic_notification_blue)
+                painterResource(R.drawable.ic_stat_ic_notification)
             }
 
             Image(

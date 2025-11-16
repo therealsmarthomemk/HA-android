@@ -443,7 +443,7 @@ class SettingsFragment(
             serverPreference.key = serverKeys[index]
             serverPreference.order = index
             try {
-                serverPreference.icon = AppCompatResources.getDrawable(requireContext(), commonR.drawable.ic_stat_ic_notification_blue)
+                serverPreference.icon = AppCompatResources.getDrawable(requireContext(), commonR.drawable.ic_stat_ic_notification)
             } catch (e: Exception) {
                 Log.e(TAG, "Unable to set the server icon", e)
             }
